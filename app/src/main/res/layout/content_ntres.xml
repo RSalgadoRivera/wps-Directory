@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.rabdos7.wpsdirectory.NTres"
+    tools:showIn="@layout/app_bar_ntres">
+
+    <LinearLayout
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/imgPlano"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/n3p" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <Button
+            android:id="@+id/btnLia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Laboratorio de inteligencia artificial" />
+
+        <Button
+            android:id="@+id/btnLtcye"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Laboratorio de tecnologias de computo y electronica" />
+
+        <Button
+            android:id="@+id/btnLabpro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Laboratorio de computo" />
+
+        <Button
+            android:id="@+id/btnCenman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Centro de mantenimiento" />
+        <Button
+            android:id="@+id/btnAula"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aula 431" />
+    </LinearLayout>
+
+</LinearLayout>

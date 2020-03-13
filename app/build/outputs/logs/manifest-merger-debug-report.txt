@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:design:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5aab1be698028f02e3346ea6170ba6ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/336babb9890dd20a853d3fc97d65ab78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec1636a90ecc1d588813dd7961c75eac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2b8daa73db78b52ee310770d8f3d53b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82b6b75d2cfa82e29fd73052755087f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5643b34e80e604ef91d540dcf106404c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/65f7674afc4abc1d1454ebf15e4e1b07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e665e97c7c925f667655febf934fe254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dbc0cad47bae210d217dc2589083a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/81968d864f0a548bf7e1690c711a344c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0ca7444f153b1960ddb7bbf5202cecb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/569648c4438844edb36427749e4f32b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1e1e9086390f53c425ff7f7d0f071db8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fa4bc71505574e2e3f7ed5f0836bf824/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72108af0fe03385cc92182520bb8cc6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e23f7f1ccc598065af3ef5835761525f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cec67217e16e07fd78a86c5bb7a179e6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:6:22-73
+application
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:8:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec1636a90ecc1d588813dd7961c75eac/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec1636a90ecc1d588813dd7961c75eac/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.rabdos7.wpsdirectory.MainActivity
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:18:13-50
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.rabdos7.wpsdirectory.PlantaBaja
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:28:13-63
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:27:13-39
+activity#com.example.rabdos7.wpsdirectory.NUno
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:30:9-33:59
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:32:13-56
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:31:13-33
+activity#com.example.rabdos7.wpsdirectory.NDos
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:35:13-33
+activity#com.example.rabdos7.wpsdirectory.NTres
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:40:13-57
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:39:13-34
+activity#com.example.rabdos7.wpsdirectory.NCuatro
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:42:9-45:59
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:43:13-36
+activity#com.example.rabdos7.wpsdirectory.NCinco
+ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:46:9-49:68
+	android:label
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:48:13-58
+	android:theme
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml:47:13-35
+uses-sdk
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5aab1be698028f02e3346ea6170ba6ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5aab1be698028f02e3346ea6170ba6ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/336babb9890dd20a853d3fc97d65ab78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/336babb9890dd20a853d3fc97d65ab78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec1636a90ecc1d588813dd7961c75eac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ec1636a90ecc1d588813dd7961c75eac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2b8daa73db78b52ee310770d8f3d53b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2b8daa73db78b52ee310770d8f3d53b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82b6b75d2cfa82e29fd73052755087f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82b6b75d2cfa82e29fd73052755087f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5643b34e80e604ef91d540dcf106404c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5643b34e80e604ef91d540dcf106404c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/65f7674afc4abc1d1454ebf15e4e1b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/65f7674afc4abc1d1454ebf15e4e1b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e665e97c7c925f667655febf934fe254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e665e97c7c925f667655febf934fe254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dbc0cad47bae210d217dc2589083a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dbc0cad47bae210d217dc2589083a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/81968d864f0a548bf7e1690c711a344c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/81968d864f0a548bf7e1690c711a344c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0ca7444f153b1960ddb7bbf5202cecb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0ca7444f153b1960ddb7bbf5202cecb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/569648c4438844edb36427749e4f32b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/569648c4438844edb36427749e4f32b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1e1e9086390f53c425ff7f7d0f071db8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1e1e9086390f53c425ff7f7d0f071db8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fa4bc71505574e2e3f7ed5f0836bf824/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fa4bc71505574e2e3f7ed5f0836bf824/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72108af0fe03385cc92182520bb8cc6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72108af0fe03385cc92182520bb8cc6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e23f7f1ccc598065af3ef5835761525f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e23f7f1ccc598065af3ef5835761525f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cec67217e16e07fd78a86c5bb7a179e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rabdos7/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cec67217e16e07fd78a86c5bb7a179e6/AndroidManifest.xml:20:5-44
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		ADDED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/AndroidManifest.xml

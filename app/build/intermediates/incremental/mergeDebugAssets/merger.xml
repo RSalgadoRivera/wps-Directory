@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/assets"><file name="databases/wps2.db" path="/home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/main/assets/databases/wps2.db"/></source><source path="/home/rabdos7/AndroidStudioProjects/wpsdirectory/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/rabdos7/AndroidStudioProjects/wpsdirectory/app/src/debug/assets"/></dataSet></merger>

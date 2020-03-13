@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rabdos7.wpsdirectory">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PlantaBaja"
+            android:label="@string/title_activity_planta_baja"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NUno"
+            android:label="@string/title_activity_nuno"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NDos"
+            android:label="@string/title_activity_ndos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NTres"
+            android:label="@string/title_activity_ntres"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NCuatro"
+            android:label="@string/title_activity_ncuatro"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NCinco"
+            android:label="@string/title_activity_ncinco"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

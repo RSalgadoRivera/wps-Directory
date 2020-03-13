@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WPS Directory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MIIDT</string>
+    <string name="nav_header_subtitle">sarr@uagro.mx</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayuda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_planta_baja">Planta Baja</string>
+    <string name="title_activity_nuno">Primer Piso</string>
+    <string name="title_activity_ndos">Segundo Piso</string>
+    <string name="title_activity_ntres">Tercer Piso</string>
+    <string name="title_activity_ncuatro">Cuarto Piso</string>
+    <string name="title_activity_ncinco">Quinto Piso</string>
+</resources>
